@@ -1,0 +1,205 @@
+body, html {
+	height: 100%;
+	margin: 0;
+	font-family: arial;
+	text-align: center;
+
+}
+
+
+.bg-1{
+	background-color: white;
+	
+}
+
+.container{
+	width: 1100px;
+	background-color: blue;
+	margin: 0 auto;
+}
+
+.perataan{
+	display: flex;
+}
+
+.box-1a{
+	width: 500px;
+	background-color: white;
+	margin: 10px;
+	margin-left: 20px;
+	padding: 10px;
+	text-align: justify;
+	margin-bottom: 8px;
+}
+
+.box-1b{
+	width: 700px;
+	background-color: white ;
+	margin: 5px;
+	margin-left: 55px;
+	padding: 20px;
+	text-align: justify;
+	margin-bottom: 8px;
+}
+
+.box-2{
+	width: 1100px;
+	background-color: white;
+	text-align: justify;
+}
+
+.box-2a{
+	width: 310px;
+	background-color:  white;
+	text-align: justify;
+	margin: 26px;
+	padding: 20px;	
+	filter:none;
+   -webkit-filter:grayscale(0%);
+}
+
+
+
+
+.box-3a{
+	width: 550px;
+	background-color: white ;
+	margin: 5px;
+	padding: 20px;
+	text-align: justify;
+	margin-bottom: 8px;
+}
+.box-3b{
+	width: 550px;
+	background-color: white ;
+	margin: 5px;
+	padding: 20px;
+	text-align: justify;
+	margin-bottom: 8px;
+}
+
+
+
+
+.box-4a{
+	width: 800px;
+	background-color: white ;
+	margin: 5px;
+	padding: 20px;
+	text-align: justify;
+	margin-bottom: 8px;
+}
+.box-4b{
+	width: 400px;
+	background-color: white ;
+	margin: 5px;
+	padding: 10px;
+	text-align: justify;
+	margin-bottom: 8px;
+}
+.box-4ain{
+	width: 150px;
+	background-color: white;
+	margin: 15px;
+	padding: 10px;
+	text-align: justify;
+	margin-bottom: 8px;
+}
+.tabel{
+	text-align: center;
+	
+	/*text-transform: uppercase;*/
+	/*font-weight: 200;*/
+}
+
+
+.blue{
+	color: #1E90FF;
+	filter:none;
+   -webkit-filter:grayscale(0%);
+	}
+
+
+
+.box-5{
+	width: 600px;
+	font-size: 16px;
+	font-family: calibri;
+	background-color: white ;
+	margin: 5px;
+	padding: 20px;
+	padding-left: 50px;
+	text-align: justify;
+	margin-bottom: 8px;
+}
+
+/*pilihan head web*/
+
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+ul li{
+
+
+    background-color: white;
+    opacity: .8;
+
+    cursor: pointer;
+    text-align: center;
+
+}
+
+span{
+    font-family: arial ;
+    margin-right: 15px;
+}
+
+ul li{
+ 
+	float: right;
+    width: 120PX;
+    height: 30PX;
+    opacity: .8;
+    line-height: 30px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 16px;
+    background: #1E90FF;
+    border-top:5px white;
+		border-left:0px ;
+		border-right:0px ;
+		border-bottom:0px ;
+
+}
+
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+ul li ul li{
+    display: none;
+}
+ul li:hover ul li{
+    display: block;
+}
+
+
+
+
+
+
+.poto{
+
+	margin: 0 auto;
+	text-align: center;
+	filter:none;
+   -webkit-filter:grayscale(0%);
+	
+}
